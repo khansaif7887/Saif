@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Computers & Coding
 - 🌱 I’m currently learning ... Core Java & Some Backend Technologies
 - 💞️ I’m looking to collaborate on ... GitHub
-- 📫 How to reach me ... Kssaif3606@gmail.com
+- 📫 How to reach me ... Ksaif3606@gmail.com
 
 
 <!---
