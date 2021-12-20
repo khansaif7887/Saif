@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @khansaif7887
 - 👀 I’m interested in ...Computers & Coding
 - 🌱 I’m currently learning ... Dot Net & Some Backend Technologies
-- :star2:
+- 🌟 I'm currently Working at ... NeoSoft Technologies as a Dot.Net Developer
+- 💪 C#, ASP.NET MVC, ASP.NET Core, CSS 3, HTML 5, JavaScript
 - 💞️ I’m looking to collaborate on ... GitHub
 - 📫 How to reach me ... Ksaif3606@gmail.com
 
