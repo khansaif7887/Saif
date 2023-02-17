@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://img.shields.io/badge/-Dot%20Net-E95420?style=for-the-badge&logo=DotNet&logoColor=white)
 ![](https://img.shields.io/badge/-MicroServices-0175C1?style=for-the-badge&logo=MicroServices&logoColor=white)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=Mysql&logoColor=white)
+![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-black?style=for-the-badge&logo=MicrosoftSqlServer&logoColor=white)
 ![](https://img.shields.io/badge/Angular-79B9CC?style=for-the-badge&logo=Angular&logoColor=white)
 ![](https://img.shields.io/badge/-C%20Sharp-3776AB?style=for-the-badge&logo=CSharp&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
