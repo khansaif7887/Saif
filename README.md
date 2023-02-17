@@ -36,10 +36,14 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-VSCode-24A4EB?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![](https://img.shields.io/badge/-VisualStudio%20Studio-0078d7?style=flat-square&logo=VisualStudio&logoColor=white)
-![](https://img.shields.io/badge/-Windows-00a1f1?style=flat-square&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 
+### OS
+![](https://img.shields.io/badge/-Windows-00a1f1?style=flat-square&logo=Windows&logoColor=white)
+![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=white)
+![](https://img.shields.io/badge/-IOS-5858d6?style=flat-square&logo=IOS&logoColor=white)
+![](https://img.shields.io/badge/-MAC-ff2d55?style=flat-square&logo=Apple&logoColor=white)
 
 ## Get in touch
 [![](https://img.shields.io/badge/-@Saif%20Khan-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saif-khan-0491871b4/)
