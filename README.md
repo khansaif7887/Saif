@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @khansaif7887
+- 👋 Hi, I’m Saif Farid Khan
 - 👀 I’m interested in ...Computers & Coding
-- 🌱 I’m currently learning ... Dot Net & Some Backend Technologies
-- 🌟 I'm currently Working at ... NeoSoft Technologies as a Dot.Net Developer
-- 💪 C#, ASP.NET MVC, ASP.NET Core, CSS 3, HTML 5, JavaScript
+- 🌱 I’m currently learning ... Angular , React and Other FrontEnd Technologies
+- 🌟 I'm currently Working at ... NeoSoft Technologies as a Full Stack Dot.Net Developer
+- 💪 C#, ASP.NET MVC, ASP.NET Core, CSS 3, HTML 5, JavaScript,SQL,jQuery, Bootstrap
 - 💞️ I’m looking to collaborate on ... GitHub
 - 📫 How to reach me ... Ksaif3606@gmail.com
 
