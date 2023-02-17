@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-VSCode-24A4EB?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![](https://img.shields.io/badge/-VisualStudio%20Studio-0078d7?style=flat-square&logo=VisualStudio&logoColor=white)
-![](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white)
+![](https://img.shields.io/badge/-Windows-00a1f1?style=flat-square&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 
