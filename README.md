@@ -1,3 +1,5 @@
+https://camo.githubusercontent.com/18b601163b71067be7fb99471f3ca92629ef06a4c0dc4eb578a56d06fc864672/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465
+
 👋 Hi there! I'm a .NET developer with a passion for creating efficient and scalable software.
 
 💻 My expertise lies in developing web applications using .NET frameworks like ASP.NET and .NET Core. I also have experience in building RESTful APIs, creating and consuming microservices, and working with SQL and NoSQL databases.
