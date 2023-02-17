@@ -47,5 +47,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Get in touch
 [![](https://img.shields.io/badge/-@Saif%20Khan-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saif-khan-0491871b4/)
-[![](https://img.shields.io/badge/-@Saif%20Khan-3e65cf?style=flat-square&logo=Gmail&logoColor=white)](mailto:ksaif3606@gmail.com)
+[![](https://img.shields.io/badge/-@Saif%20Khan-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ksaif3606@gmail.com)
 ---
