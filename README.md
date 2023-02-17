@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 👋 Hi there! I'm a .NET developer with a passion for creating efficient and scalable software.
 
-💻 My expertise lies in developing web applications using .NET frameworks like ASP.NET and .NET Core. I also have experience in building RESTful APIs, creating and consuming microservices, and working with SQL and NoSQL databases.
+💻 My expertise lies in developing web applications using .NET frameworks like ASP.NET and .NET Core. I also have experience in building RESTful APIs, creating and consuming microservices, and working with SQL databases.
 
 💪 C#, ASP.NET MVC, ASP.NET Core, CSS 3, HTML 5, JavaScript,SQL,jQuery, Bootstrap
 
