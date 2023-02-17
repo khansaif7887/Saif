@@ -1,3 +1,13 @@
+
+<!---
+khansaif7887/khansaif7887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+# Mohammed Saif Farid Khan
+
+
 👋 Hi there! I'm a .NET developer with a passion for creating efficient and scalable software.
 
 💻 My expertise lies in developing web applications using .NET frameworks like ASP.NET and .NET Core. I also have experience in building RESTful APIs, creating and consuming microservices, and working with SQL and NoSQL databases.
@@ -9,17 +19,6 @@
 🌱 In my free time, I like to contribute to open source projects and stay up-to-date with the latest industry trends.
 
 📫 Feel free to connect with me on LinkedIn or shoot me an email at [ksaif3606@gmail.com]. Let's chat! 
-<!---
-khansaif7887/khansaif7887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-# Mohammed Saif Khan
-
-
-> Let's make world a better place to live.
-> 🌱 Climate change is real, Save the environment.
 
 
 ### Languages
@@ -31,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/-C%20Sharp-3776AB?style=for-the-badge&logo=CSharp&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-Java%20Script-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/-HTML5-3e65cf?style=flat-square&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/-HTML5-3e65cf?style=for-the-badge&logo=HTML5&logoColor=white)
 
 ### Tools
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
